@@ -1,0 +1,9 @@
+author.jpg = Ethan.jpg
+blogger.jpg = Lily.jpg
+boy_1.jpg = Noah.jpg
+boy_3.jpg = Steven.jpg
+chudail_1.jpg = Isabella.jpg
+boy_4.jpg = Evelyn.jpg
+boy_2.jpg = Benjamin.jpg
+happy_kid.jpg = Jackson.jpg
+smiling_kid.jpg = Olivia.jpg
